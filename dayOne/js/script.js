@@ -96,3 +96,4 @@ const getColorsFromArray = colorArray => {
 
 console.log(getColorsFromArray(colorArr));
 
+// assignment completed. 
